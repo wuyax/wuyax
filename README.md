@@ -24,35 +24,58 @@ wuyax@github:~$ cat about_me.txt
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,js,ts,vue,nodejs,bash,git,github,linux,docker,webpack,vite" />
+    <img src="https://skillicons.dev/icons?i=js,ts,rust,wasm,bash,vue,tailwind,webpack,vite,nodejs,git,github,linux" />
   </a>
 </p>
 
 ### 🚀 Featured Creations
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🦀 **[apngopt-rs](https://github.com/wuyax/apngopt-rs)** | Fast, memory-safe, 1:1 port of C++ `apngopt`. | `Rust` |
-| 🐚 **[caz](https://github.com/wuyax/caz)** | CLI tool for effortlessly cleaning `.DS_Store` files. | `Shell` |
-| ⚡ **[vuepfc](https://github.com/wuyax/vuepfc)** | Vue directive to prevent fast clicks. | `Vue` / `JS` |
-| 📦 **[cjs2esm-builder](https://github.com/wuyax/cjs2esm-builder)** | Transform UMD/CJS to ES modules. | `Node.js` |
-| 🔧 **[vuex-along-function-adapter](https://github.com/wuyax/vuex-along-function-adapter)** | Function adapter for `vuex-along`. | `JS` |
-| 🖼️ **[imagemin-pngquant](https://github.com/wuyax/imagemin-pngquant)** | Imagemin plugin for `pngquant`. | `JS` |
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="30%">Project</th>
+      <th width="50%">Description</th>
+      <th width="20%">Tech</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🦀 <b><a href="https://github.com/wuyax/apngopt-rs">apngopt-rs</a></b></td>
+      <td>Fast, memory-safe, 1:1 port of C++ <code>apngopt</code>.</td>
+      <td><code>Rust</code></td>
+    </tr>
+    <tr>
+      <td>🐚 <b><a href="https://github.com/wuyax/caz">caz</a></b></td>
+      <td>CLI tool for effortlessly cleaning <code>.DS_Store</code> files.</td>
+      <td><code>Shell</code></td>
+    </tr>
+    <tr>
+      <td>⚡ <b><a href="https://github.com/wuyax/vuepfc">vuepfc</a></b></td>
+      <td>Vue directive to prevent fast clicks.</td>
+      <td><code>Vue</code> / <code>JS</code></td>
+    </tr>
+    <tr>
+      <td>📦 <b><a href="https://github.com/wuyax/cjs2esm-builder">cjs2esm-builder</a></b></td>
+      <td>Transform UMD/CJS to ES modules.</td>
+      <td><code>Node.js</code></td>
+    </tr>
+    <tr>
+      <td>🔧 <b><a href="https://github.com/wuyax/vuex-along-function-adapter">vuex-along-function-adapter</a></b></td>
+      <td>Function adapter for <code>vuex-along</code>.</td>
+      <td><code>JS</code></td>
+    </tr>
+    <tr>
+      <td>🖼️ <b><a href="https://github.com/wuyax/imagemin-pngquant">imagemin-pngquant</a></b></td>
+      <td>Imagemin plugin for <code>pngquant</code>.</td>
+      <td><code>JS</code></td>
+    </tr>
+  </tbody>
+</table>
 
 ### 📈 GitHub Analytics
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=wuyax&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=wuyax&show_icons=true&theme=default&hide_border=true&bg_color=ffffff">
-    <img align="top" src="https://github-readme-stats.vercel.app/api?username=wuyax&show_icons=true&theme=default&hide_border=true&bg_color=ffffff" alt="WUYAX's GitHub stats" width="48%">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wuyax&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wuyax&layout=compact&theme=default&hide_border=true&bg_color=ffffff">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wuyax&layout=compact&theme=default&hide_border=true&bg_color=ffffff" alt="Top Langs" width="48%">
-  </picture>
-</p>
+| <a href="https://github.com/wuyax/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=wuyax&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/wuyax/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wuyax&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <!-- 
 ### 🐍 Contribution Snake (Bonus Idea)
