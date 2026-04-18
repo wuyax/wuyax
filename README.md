@@ -30,47 +30,26 @@ wuyax@github:~$ cat about_me.txt
 
 ### 🚀 Featured Creations
 
-<table width="100%" style="width: 100%;">
-  <thead>
-    <tr>
-      <th width="30%">Project</th>
-      <th width="50%">Description</th>
-      <th width="20%">Tech</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>🦀 <b><a href="https://github.com/wuyax/apngopt-rs">apngopt-rs</a></b></td>
-      <td>Fast, memory-safe, 1:1 port of C++ <code>apngopt</code>.</td>
-      <td><code>Rust</code></td>
-    </tr>
-    <tr>
-      <td>🐚 <b><a href="https://github.com/wuyax/caz">caz</a></b></td>
-      <td>CLI tool for effortlessly cleaning <code>.DS_Store</code> files.</td>
-      <td><code>Shell</code></td>
-    </tr>
-    <tr>
-      <td>⚡ <b><a href="https://github.com/wuyax/vuepfc">vuepfc</a></b></td>
-      <td>Vue directive to prevent fast clicks.</td>
-      <td><code>Vue</code> / <code>JS</code></td>
-    </tr>
-    <tr>
-      <td>📦 <b><a href="https://github.com/wuyax/cjs2esm-builder">cjs2esm-builder</a></b></td>
-      <td>Transform UMD/CJS to ES modules.</td>
-      <td><code>Node.js</code></td>
-    </tr>
-    <tr>
-      <td>🔧 <b><a href="https://github.com/wuyax/vuex-along-function-adapter">vuex-along-function-adapter</a></b></td>
-      <td>Function adapter for <code>vuex-along</code>.</td>
-      <td><code>JS</code></td>
-    </tr>
-    <tr>
-      <td>🖼️ <b><a href="https://github.com/wuyax/imagemin-pngquant">imagemin-pngquant</a></b></td>
-      <td>Imagemin plugin for <code>pngquant</code>.</td>
-      <td><code>JS</code></td>
-    </tr>
-  </tbody>
-</table>
+<p align="center">
+  <a href="https://github.com/wuyax/apngopt-rs">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wuyax&repo=apngopt-rs&theme=buefy&hide_border=true" width="48%" />
+  </a>
+  <a href="https://github.com/wuyax/vuepfc">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wuyax&repo=vuepfc&theme=buefy&hide_border=true" width="48%" />
+  </a>
+  <a href="https://github.com/wuyax/caz">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wuyax&repo=caz&theme=buefy&hide_border=true" width="48%" />
+  </a>
+  <a href="https://github.com/wuyax/cjs2esm-builder">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wuyax&repo=cjs2esm-builder&theme=buefy&hide_border=true" width="48%" />
+  </a>
+  <a href="https://github.com/wuyax/vuex-along-function-adapter">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wuyax&repo=vuex-along-function-adapter&theme=buefy&hide_border=true" width="48%" />
+  </a>
+  <a href="https://github.com/wuyax/imagemin-pngquant">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wuyax&repo=imagemin-pngquant&theme=buefy&hide_border=true" width="48%" />
+  </a>
+</p>
 
 ### 📈 GitHub Analytics
 
