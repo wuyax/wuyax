@@ -1,27 +1,60 @@
 <img width="100%" src="./assets/wuyax.png">
 
-# Hi there, I'm WUYAX! 👋
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+WUYAX!+👋;I'm+a+Passionate+Developer;Focusing+on+Rust+%26+JS;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</div>
 
-🦂 **Focusing** | 📍 Beijing, China
+---
 
-I am a passionate developer with a focus on building efficient tools and utilities across Rust, JavaScript, and shell environments. I enjoy creating solutions that improve developer experience and performance.
+### 👨‍💻 `whoami`
 
-## 🚀 Featured Projects
+```shell
+wuyax@github:~$ cat about_me.txt
+{
+  "name": "WUYAX",
+  "location": "📍 Beijing, China",
+  "bio": "🦂 Focusing",
+  "passions": ["Rust 🦀", "JavaScript 💛", "Performance Optimization ⚡", "CLI Tools 🐚"],
+  "repositories": "100+",
+  "mission": "Building efficient tools and utilities to improve developer experience."
+}
+```
 
-- 🦀 **[apngopt-rs](https://github.com/wuyax/apngopt-rs)**: A fast, memory-safe, 1:1 port of the classic C++ `apngopt` in pure Rust.
-- 🐚 **[caz](https://github.com/wuyax/caz)**: A handy command-line tool for effortlessly cleaning `.DS_Store` files.
-- ⚡ **[vuepfc](https://github.com/wuyax/vuepfc)**: A Vue directive to prevent fast clicks, particularly useful for projects with frequent backend requests.
-- 📦 **[cjs2esm-builder](https://github.com/wuyax/cjs2esm-builder)**: A straightforward utility to transform UMD and CJS to ES modules.
-- 🔧 **[vuex-along-function-adapter](https://github.com/wuyax/vuex-along-function-adapter)**: A function adapter for the `vuex-along` library.
-- 🖼️ **[imagemin-pngquant](https://github.com/wuyax/imagemin-pngquant)**: An Imagemin plugin for `pngquant` image optimization.
-
-## 📊 GitHub Stats
+### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wuyax&show_icons=true&theme=transparent&hide_border=true" alt="WUYAX's GitHub stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wuyax&layout=compact&theme=transparent&hide_border=true" alt="Top Langs" width="48%">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust,js,ts,vue,nodejs,bash,git,github,linux,docker,webpack,vite" />
+  </a>
 </p>
 
-## 📫 Let's Connect
+### 🚀 Featured Creations
 
-Feel free to explore my [100+ repositories](https://github.com/wuyax?tab=repositories) or reach out if you'd like to collaborate on interesting projects!
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🦀 **[apngopt-rs](https://github.com/wuyax/apngopt-rs)** | Fast, memory-safe, 1:1 port of C++ `apngopt`. | `Rust` |
+| 🐚 **[caz](https://github.com/wuyax/caz)** | CLI tool for effortlessly cleaning `.DS_Store` files. | `Shell` |
+| ⚡ **[vuepfc](https://github.com/wuyax/vuepfc)** | Vue directive to prevent fast clicks. | `Vue` / `JS` |
+| 📦 **[cjs2esm-builder](https://github.com/wuyax/cjs2esm-builder)** | Transform UMD/CJS to ES modules. | `Node.js` |
+| 🔧 **[vuex-along-function-adapter](https://github.com/wuyax/vuex-along-function-adapter)** | Function adapter for `vuex-along`. | `JS` |
+| 🖼️ **[imagemin-pngquant](https://github.com/wuyax/imagemin-pngquant)** | Imagemin plugin for `pngquant`. | `JS` |
+
+### 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wuyax&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="WUYAX's GitHub stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wuyax&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" width="48%">
+</p>
+
+<!-- 
+### 🐍 Contribution Snake (Bonus Idea)
+*(If you want to add the greedy snake animation that eats your contribution graph, you can set up the `snk` GitHub Action and uncomment this part)*
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wuyax/wuyax/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wuyax/wuyax/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wuyax/wuyax/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+-->
