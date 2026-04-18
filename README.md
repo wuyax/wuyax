@@ -1,7 +1,7 @@
 <img width="100%" src="./assets/wuyax.png">
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+WUYAX!+👋;I'm+a+Passionate+Developer;Focusing+on+Rust+%26+JS;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+WUYAX+👋!;I'm+a+Passionate+Developer;Focusing+on+TS+%26+JS;Welcome+to+my+Profile!" alt="Typing SVG" />
 </div>
 
 ---
@@ -42,8 +42,16 @@ wuyax@github:~$ cat about_me.txt
 ### 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wuyax&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="WUYAX's GitHub stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wuyax&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" width="48%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=wuyax&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=wuyax&show_icons=true&theme=default&hide_border=true&bg_color=ffffff">
+    <img align="top" src="https://github-readme-stats.vercel.app/api?username=wuyax&show_icons=true&theme=default&hide_border=true&bg_color=ffffff" alt="WUYAX's GitHub stats" width="48%">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wuyax&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wuyax&layout=compact&theme=default&hide_border=true&bg_color=ffffff">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wuyax&layout=compact&theme=default&hide_border=true&bg_color=ffffff" alt="Top Langs" width="48%">
+  </picture>
 </p>
 
 <!-- 
