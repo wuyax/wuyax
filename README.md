@@ -30,7 +30,7 @@ wuyax@github:~$ cat about_me.txt
 
 ### 🚀 Featured Creations
 
-<table width="100%">
+<table width="100%" style="width: 100%;">
   <thead>
     <tr>
       <th width="30%">Project</th>
